@@ -1,47 +1,103 @@
-# 🌟 ¡Hola! Soy Gerardo Antonio Barrientos Salazar 🌟
+# Hi, I'm [Tu Nombre] 👋
+## Frontend Developer & Mobile Enthusiast 📱
 
-<p align="center">
-  <a href="URL_DE_LA_IMAGEN_DE_FONDO_QUE_DESEES">
-    <img src="https://i.imgur.com/K1Lg0Yw.png" alt="Fondo simulado" width="100%" height="200" /> 
-    </a>
-</p>
-
-### 🎨 Técnico en Desarrollo de Software | Especialista Front-End & Móvil
-
-Soy un apasionado de la creación de experiencias digitales de alta calidad. Mi enfoque principal está en el diseño y desarrollo Front-End, transformando ideas de diseño en interfaces web y móviles funcionales y atractivas.
+![Header](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=300&fit=crop)
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+### 👨‍💻 About Me
 
-Las siguientes son las herramientas con las que trabajo habitualmente, destacando mi enfoque en el desarrollo visual y la experiencia de usuario:
+🎓 I'm a **Software Development Engineering Technician** passionate about creating beautiful and functional digital experiences.
 
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-</p>
+💼 I specialize in **Frontend Web Development** and **Android Applications**, with a strong focus on **UI/UX Design**.
+
+🎨 I love bringing ideas to life through code, from wireframes to fully functional applications.
+
+📍 Currently exploring new technologies and building amazing user interfaces.
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+### 🛠️ Technology Stack
 
-Aquí puedes ver mi actividad, lenguajes más usados y contribuciones en GitHub.
+#### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GERARDO_ANTONIO_GITHUB_USER&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=94b7c2&icon_color=79b8c2&text_color=ffffff&bg_color=1d232a&hide_border=true" alt="Estadísticas de Gerardo Antonio" />
+#### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+### 🎯 What I Do
+
+```javascript
+const skills = {
+    frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    mobile: ["Flutter", "Dart", "Android Development"],
+    design: ["Wireframing", "UI/UX Design", "Prototyping"],
+    database: ["MySQL", "SQL Server"],
+    focus: "Creating beautiful and intuitive user experiences"
+};
+```
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Flutter techniques
+- Modern JavaScript frameworks
+- UI/UX best practices
+- Mobile app optimization
+
+---
+
+### 💡 Philosophy
+
+> "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
+
+I believe in creating experiences that are not only visually appealing but also functional and user-friendly.
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GERARDO_ANTONIO_GITHUB_USER&layout=compact&langs_count=5&theme=dark&title_color=94b7c2&icon_color=79b8c2&text_color=ffffff&bg_color=1d232a&hide_border=true" alt="Lenguajes Top" />
-</p>
-
----
-
-## 🤝 Conectemos
-
-* **LinkedIn:** [Gerardo Antonio Barrientos Salazar](https://www.linkedin.com/in/gerardo-antonio-barrientos-salazar-901188364/)
-* **Correo Electrónico (Institucional):** be25001@esfe.agape.edu.sv
+### ⭐ From Wireframe to Reality, One Line of Code at a Time
+  
+</div>
